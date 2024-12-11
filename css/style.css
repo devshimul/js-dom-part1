@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+.header {
+  text-align: center;
+  background-color: rgb(63, 201, 63);
+  color: #fff;
+  padding: 14px 0;
+  margin-bottom: 14px;
+}
